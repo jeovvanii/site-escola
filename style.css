@@ -4,4 +4,5 @@
 .cabeçalho-item-lista{ display: inline-block; margin: 0 16px; padding: 24px 0; font-size: 24px;}
 .escola {background-image: linear-gradient(rgb(106, 91, 205), #1a4cf0);display: flex;}
 .escola-conteúdo{width: 70%; display: center; justify-content: center; align-items: center;}
-.escola-imagem {width: 35%;}
+.escola-titulo { padding: 24px 0;}
+.escola-imagem {width: 40%;}
